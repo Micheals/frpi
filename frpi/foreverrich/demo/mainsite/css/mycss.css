@@ -1,0 +1,11 @@
+.logo img {
+	width: 290px !important;
+}
+#donateNowDiv {
+	display: none;
+}
+.toplogin {
+	font-size: 10px;
+	color: #747474;
+	
+}

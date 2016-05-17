@@ -1,0 +1,42 @@
+.sidebar-footer { display: none; }
+body.nav-sm .navbar.nav_title a i, .toggle a i {
+	margin: 0 0 0 8px;
+	cursor: pointer;
+}
+body.nav-sm .navbar.nav_title .site_title, .sidebar-footer.hidden-small {
+	display: none;
+}
+.site_title {
+	width: auto;
+	background: url(../images/logo/logo-white.png) no-repeat;
+	background-position: left center;
+}
+.main_menu_side.hidden-print.main_menu {
+	margin-top: -20px;
+}
+.panel_toolbox>li {
+	float: right;
+}
+table td {
+	vertical-align: middle !important;
+}
+.tblPrice b, .tblQuantity b, .tblAction b {
+	float:right;margin-right:5px;
+}
+.required {
+	color: red;
+}
+.BrowseForFile > input
+{
+    display: none;
+}
+.addImg {
+	border: 1px solid rgba(0,0,0,.1);
+	cursor: pointer;
+}
+.uploadIMG {
+	height: 130px;
+    width: 120px;
+    position: absolute;
+    opacity: 0;
+}
